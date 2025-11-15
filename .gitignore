@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.log
+*.tmp
+*.bak
+*.swp
+*.pem
+*.key
+*.crt
+.env
+.DS_Store
